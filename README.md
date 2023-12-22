@@ -8,6 +8,8 @@ Este projeto é uma API REST com autenticação utilizando Node.js, Express e Ty
 
 Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
+![Imagem do Projeto](./apirest.png)
+
 ## Configuração do Ambiente
 
 1. **Clone o Repositório:**
