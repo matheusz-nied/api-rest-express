@@ -3,12 +3,12 @@
 Este projeto é uma API REST com autenticação utilizando Node.js, Express e TypeScript, com o MongoDB como banco de dados.
 
 
+![Imagem do Projeto](./apirest.png)
 
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
-![Imagem do Projeto](./apirest.png)
 
 ## Configuração do Ambiente
 
